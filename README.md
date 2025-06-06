@@ -5,8 +5,7 @@
 *   João Pedro Déo Gonçalves (RA: 1963003)
 
 **Link do vídeo no YouTube:**
-*   [Link a ser inserido aqui após o upload]
-
+*   https://www.youtube.com/watch?v=VV8bmZCCPbs
 ## Descrição do Projeto
 
 Este projeto consiste em uma interface de e-commerce desenvolvida como parte de uma atividade acadêmica. O objetivo principal foi criar uma loja virtual interativa utilizando Vue.js 3 (com Composition API) e Vue Router para a navegação entre páginas. Para simular um catálogo de produtos dinâmico, o projeto integra-se com a API pública [DummyJSON](https://dummyjson.com/), que fornece dados de produtos, incluindo imagens, descrições, preços e categorias.
