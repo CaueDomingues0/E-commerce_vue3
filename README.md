@@ -1,8 +1,5 @@
 # Projeto E-commerce C&J
 
-**Integrantes:**
-*   Cauê Domingues (RA: 1988969)
-*   João Pedro Déo Gonçalves (RA: 1963003)
 
 **Link do vídeo no YouTube:**
 *   https://www.youtube.com/watch?v=VV8bmZCCPbs
